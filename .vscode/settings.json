@@ -1,0 +1,10 @@
+{
+    "files.associations": {
+        "typeinfo": "cpp",
+        "defs.h": "c",
+        "syscall.h": "c",
+        "types.h": "c",
+        "stat.h": "c",
+        "user.h": "c"
+    }
+}
